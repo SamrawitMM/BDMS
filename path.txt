@@ -1,0 +1,9 @@
+cd ../../Program Files/MongoDB/Server/3.4/bin
+mongod.exe --dbpath C:/Users/Tsiyon/Documents/mongo-data
+
+cd ../../Program Files/MongoDB/Server/3.4/bin
+mongo.exe
+
+
+
+09 23 25 85 07
